@@ -1,0 +1,44 @@
+[
+  {
+    "country": "uk",
+    "city": "dundee",
+    "street": "lochee road",
+    "aqicn_url": "https://api.waqi.info/feed/@5971/",
+    "csv_file": "lochee road"
+  },
+ {
+    "country": "uk",
+    "city": "dundee",
+    "street": "whitehall street",
+    "aqicn_url": "https://api.waqi.info/feed/@9579/",
+    "csv_file": "whitehall street"
+  },
+   {
+    "country": "uk",
+    "city": "dundee",
+    "street": "meadowside",
+    "aqicn_url": "https://api.waqi.info/feed/@5973/",
+    "csv_file": "meadowside"
+  },
+   {
+    "country": "uk",
+    "city": "dundee",
+    "street": "seagate",
+    "aqicn_url": "https://api.waqi.info/feed/@5974/",
+    "csv_file": "seagate"
+  },
+   {
+    "country": "uk",
+    "city": "dundee",
+    "street": "mains loan",
+    "aqicn_url": "https://api.waqi.info/feed/@5972/",
+    "csv_file": "mains loan"
+  },
+   {
+    "country": "uk",
+    "city": "dundee",
+    "street": "broughty ferry road",
+    "aqicn_url": "https://api.waqi.info/feed/@5970/",
+    "csv_file": "broughty ferry road"
+  }
+]
